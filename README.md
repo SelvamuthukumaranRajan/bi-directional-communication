@@ -19,7 +19,7 @@ Home Screen
 </h4>
 
 <h3 align="center">
-By clicking "Get message" button to share values and image asset to native android screen.
+By clicking the "Get message" button, we can share values and image assets to the native Android screen.
 </h3>
 
 <p align="center">
@@ -31,7 +31,7 @@ Android Home Screen
 </h4>
 
 <h3 align="center">
-Image asset shared from flutter and displayed in native android screen.
+An image asset from Flutter is shared and displayed on the native Android screen.
 </h3>
 
 <p align="center">
@@ -43,7 +43,7 @@ Result screen
 </h4>
 
 <h3 align="center">
-Acknowledgement and values from android native screen is displayed in flutter home screen.
+Acknowledgement and values from the Android native screen are displayed on the Flutter home screen.
 </h3>
 
 <p align="center">
