@@ -1,4 +1,4 @@
-name: internal communication
+name: internal_communication
 description: Internal communication between flutter and native code.
 
 # The following line prevents the package from being accidentally published to

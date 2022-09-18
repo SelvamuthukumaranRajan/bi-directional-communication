@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const MyHomePage(title: 'Bi-directional Communication'),
     );
   }
 }
@@ -79,7 +79,7 @@ class _MyHomePageState extends State<MyHomePage> {
     //     await platform.invokeMethod("getMessage", bytes.buffer.asUint8List());
 
     var imageURL =
-        "https://d1u2maujpzk42.cloudfront.net/engage-ar/Clients/Sportemongo/FaceFilterThumbnailImage/7.png";
+        "https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png";
     message = await platform.invokeMethod("getMessage", imageURL);
   }
 
